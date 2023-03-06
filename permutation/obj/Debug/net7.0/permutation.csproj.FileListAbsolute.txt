@@ -1,0 +1,15 @@
+E:\C# Test\permutation\obj\Debug\net7.0\permutation.csproj.AssemblyReference.cache
+E:\C# Test\permutation\obj\Debug\net7.0\permutation.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Test\permutation\obj\Debug\net7.0\permutation.AssemblyInfoInputs.cache
+E:\C# Test\permutation\obj\Debug\net7.0\permutation.AssemblyInfo.cs
+E:\C# Test\permutation\obj\Debug\net7.0\permutation.csproj.CoreCompileInputs.cache
+E:\C# Test\permutation\bin\Debug\net7.0\permutation.exe
+E:\C# Test\permutation\bin\Debug\net7.0\permutation.deps.json
+E:\C# Test\permutation\bin\Debug\net7.0\permutation.runtimeconfig.json
+E:\C# Test\permutation\bin\Debug\net7.0\permutation.dll
+E:\C# Test\permutation\bin\Debug\net7.0\permutation.pdb
+E:\C# Test\permutation\obj\Debug\net7.0\permutation.dll
+E:\C# Test\permutation\obj\Debug\net7.0\refint\permutation.dll
+E:\C# Test\permutation\obj\Debug\net7.0\permutation.pdb
+E:\C# Test\permutation\obj\Debug\net7.0\permutation.genruntimeconfig.cache
+E:\C# Test\permutation\obj\Debug\net7.0\ref\permutation.dll
