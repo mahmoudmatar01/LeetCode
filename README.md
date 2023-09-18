@@ -43,3 +43,7 @@ We welcome contributions! If you have a new problem solution to add, or you've f
 4. Push your branch to your fork:
 
 5. Open a pull request, providing a detailed description of your changes.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
